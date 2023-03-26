@@ -4,13 +4,16 @@
  Abra o prompt de comando e cole o código abaixo:
  
  ```
- git clone git@github.com...
+ gh repo clone holandaalex/desafio-cni
+ 
+ ou donwn direto em  https://github.com/holandaalex/desafio-cni.git
+ 
 ```
 
 Entre na pasta do projeto
 
 ```
- cd desafio-front
+ cd desafio-cni
 ```
 
 e instale as dependências
@@ -48,6 +51,14 @@ Que será o Banco de dados que vou usar;
 
 - html, scss, Frameworks Angular e Bootstrap.
 
-"# DesafioCNI-Front"  
+"#DesafioCNI-Front"  
 # DesafioCNI-Front
 # DesafioCNI-Front
+
+
+
+Fiz esse projeto para o Desafio CNI mas também faz parte de um acervo onde ensino em aulas online no meu site
+https://alexholanda.com.br/ 
+
+#AlexsanderHolandaBarreto
+@holandaalex
