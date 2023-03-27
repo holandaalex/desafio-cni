@@ -27,7 +27,7 @@ Nesse caso também informando o valor e data dessa Receita e uma caixinha ao ser
 
 No fim ele faz um compilado dessas informações para um melhor gerenciamento.
 
-*ACESSO CASO OCORRA EVENTUAIS EMPREVISTOS*
+*ACESSO CASO OCORRA EVENTUAIS IMPREVISTOS*
 USER: hb_ita@hotmail.com
 PASSWORD: 1009
 
