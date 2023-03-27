@@ -52,40 +52,54 @@ e instale as dependências
 ```
  npm i
 ```
+localhost:4200
+```
+
 
 ### Rodando a api
+
+https://github.com/holandaalex/PROJETOS.git
+
 Parar iniciar o servidor com a aplicação funcionando digite o comando abaixo:
 
 ```
- ng serve
-```
+Entre na pasta do projeto
 
+cd PROJETOS
+
+´´´
+e instale as dependências
+
+npm i
+
+´´´
+
+ng serve
+
+```
 a aplicação estara disponível no endereço:
 
 ```
- localhost:4200
+ localhost:3000
 ```
 
 **Tecnologias Usadas**
+
 - NodeJS
-Usado para o fundamento para construímos uma API;
-
+- nodemon
+- dotenv
+- Angular
 - Http Status
-Vai ajudar a trazer os retornos de status para o cliente;
-
 - NPM
-O NPM é o gerenciador de pacotes do Node;
-
 - MongoDB
-Que será o Banco de dados que vou usar;
+- Postman
+- Express
+- Bootstrap
+- TypeScript
+- html, scss
 
 
-- html, scss, Frameworks Angular e Bootstrap.
-
-"#DesafioCNI-Front"  
-# DesafioCNI-Front
-# DesafioCNI-Front
-
+"#DesafioCNI-Front"
 
 
 Fiz esse projeto para o Desafio CNI mas também faz parte de um acervo onde ensino em aulas online no meu site
