@@ -2,6 +2,17 @@
 
 O Front inicial é uma página de login, onde é necessario criar uma conta para ter acesso so Sistema.
 
+Preecha os campos do Cadastro:
+NOME:
+EMAIL:
+IDADE:
+UPLOAD FOTO PERFIL:
+SENHA:
+CONFIRMAR SENHA:
+
+Depois volte na opção Entrar e digite agora seu email e senha de cadastro.
+
+
 O Sistema basicamente é um Gerenciamento de Dívidas! onde se controla Receitas e Dívidas fixas de acordo com o mês; nele você pode adicionar na opção "Adicionar Receitas" opções no campo tipos de receitas como:
 
 - Investimento
